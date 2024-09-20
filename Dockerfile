@@ -1,1 +1,1 @@
-FROM gcr.io/spark-operator/spark-operator:v1beta2-1.3.0-3.1.1
+FROM nvidia/cuda:12.1.0-base-ubuntu22.04
