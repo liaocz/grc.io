@@ -1,1 +1,1 @@
-FROM nvidia/cuda:12.1.0-base-ubuntu22.04
+FROM lmsysorg/sglang:v0.4.6.post5-cu124
